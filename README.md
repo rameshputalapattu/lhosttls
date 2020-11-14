@@ -1,0 +1,1 @@
+This repository was created for the purpose of learning about TLS certificates and setting up secure connections in go while watching [Liz Rice's talk](https://www.youtube.com/watch?v=kxKLYDLzuHA) on this topic.
